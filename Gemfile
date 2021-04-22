@@ -38,7 +38,7 @@ gem 'active_model_serializers', '~> 0.9.3'
 gem "devise", ">= 4.6.0"
 gem 'pundit', '~> 0.3.0'
 
-gem 'carrierwave', '~> 0.10.0'
+gem 'carrierwave', '~> 1.3.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'json'
