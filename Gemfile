@@ -56,7 +56,7 @@ gem 'sass-rails'
 #Use Bootstrap (nathankw added)
 #gem 'sprockets-rails', '>= 2.1.4'
 gem 'sprockets-rails', '~> 3.0'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'font-awesome-rails', '~> 4.3'
 gem 'simple_form', '~> 3.1.0'
 
